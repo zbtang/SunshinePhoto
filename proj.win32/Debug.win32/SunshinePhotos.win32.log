@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(346,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+d:\cocos2d\cocos2d-2.0-x-2.0.4\sunshinephotos\proj.win32\main.h(13): warning C4005: “_DEBUG”: 宏重定义
+          命令行参数: 参见前面的“_DEBUG”定义
+  SunshinePhotos.win32.vcxproj -> D:\cocos2d\cocos2d-2.0-x-2.0.4\SunshinePhotos\proj.win32\.\Debug.win32\SunshinePhotos.win32.exe
